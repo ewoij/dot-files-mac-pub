@@ -1,0 +1,10 @@
+./.config/htop
+./.config/neofetch
+./.config/nvim
+./.functions.stuff.sh
+./.functions.tmux.sh
+./.fzf.zsh
+./.gitconfig
+./.tmux.conf
+./.zsh
+./.zshrc

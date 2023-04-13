@@ -1,0 +1,13 @@
+[user]
+	name = TODO
+	email = TODO
+[branch]
+	autosetuprebase = always
+[alias]
+	lg = log --color --graph --pretty=format:'%C(auto)%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+[pull]
+	rebase = true
+[core]
+	editor = nvim
+[diff]
+	tool = nvimdiff3
